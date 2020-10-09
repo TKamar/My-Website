@@ -1,0 +1,161 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:'Merriweather', sans-serif;
+  color: #40514E;
+}
+div{
+  background-color: #d7fbe8;
+}
+h1{
+  font-size: 562.5%;
+  margin: 50px auto 0 auto;
+  font-family: 'Architects Daughter', cursive;
+  color: #41aea9;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #41aea9;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #51adcf;
+}
+
+hr {
+
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+.profile-picture{
+  margin-top: 50px;
+}
+.footer-link{
+  color: #0f3057;
+}
+.footer-link:hover{
+  color: #cdc9c3;
+}
+
+.btn {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  text-shadow: 1px 1px 3px #666666;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4a);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4a);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4a);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4a);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4a);
+  text-decoration: none;
+}
+
+.education-picture{
+  position:relative;
+  bottom: 30px;
+}
+
+.top-container{
+  background-color: #d7fbe8;
+  position: relative;
+  padding-top: 100px;
+
+}
+
+.bottom-container{
+  padding-top: 15px;
+  padding-bottom: 5px;
+}
+
+
+
+.bottom-cloud{
+  position: absolute;
+  left: 30%;
+  bottom: 300px;
+  margin: auto;
+
+}
+
+.top-cloud{
+    position: absolute;
+    right: 30%;
+    top: 50px;
+    margin: auto;
+}
+
+.profile-picture{
+  height: 450px;
+  width: 390px;
+}
+.hello-text{
+  width: 50%;
+  margin: auto;
+}
+
+.Programming-picture{
+  height: 400px;
+  width: 700px;
+}
+.Programming-languages-Table{
+  margin: 50px auto 50px auto;
+}
+
+.skills-text{
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.professional-skills-img{
+  width: 25%;
+  float: right;
+}
+
+.interpersonal-skills-img{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+  margin: auto 30px 62px auto;
+}
+
+.interpersonal-title{
+  padding-left: 35%;
+}
+
+a{
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  margin: 10px 10px;
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+}
+
+.copyright{
+    font-size: 0.75rem;
+}

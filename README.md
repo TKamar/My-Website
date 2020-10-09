@@ -1,2 +1,2 @@
 # My-Website
-My first Website. Developted using HTML and CSS
+My first Website. Developted using HTML and CSS 
